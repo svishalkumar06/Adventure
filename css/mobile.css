@@ -1,0 +1,28 @@
+#navbar{
+    flex-direction: column;
+    height: 120px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+#navbar a{
+    padding:10px 10px;
+    margin: 0 3px;
+}
+#home .content h2{
+    font-size: 22px;
+}
+#home .content h1{
+    font-size: 35px;
+}
+.btn-primary{
+    padding: 3px 10px !important;
+    font-size: 13px;
+}
+.btn-secondary{
+    padding: 3px 10px !important;
+    font-size: 13px; 
+}
+.flex-items{
+    flex-direction: column;
+}

@@ -1,0 +1,30 @@
+.btn-primary{
+    padding:5px 12px !important;
+    background: rgb(255, 37, 119);
+    color: #fff;
+    border-radius: 25px;
+}
+.btn-primary:hover{
+    color: #fff !important;
+}
+.btn-secondary{
+    display: inline-block;
+    color: #fff;
+    padding:2px 10px !important;
+    background: rgb(255, 40, 125);
+    border-radius: 25px;
+    font-weight: 400;
+}
+.header-text{
+    font-weight: 700;
+    font-size: 2rem;
+}
+.line{
+    width: 8rem;
+    text-align: center;
+    display: inline-block;
+    height: 0.3rem;
+    border-radius: 10px;
+    background: rgb(255, 37, 119);
+    margin-bottom: 7px;
+}
