@@ -26,3 +26,7 @@
 .flex-items{
     flex-direction: column;
 }
+.grid .row .coloumn{
+    flex-basis: 100% !important;
+    max-width: 100% !important;
+}

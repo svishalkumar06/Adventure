@@ -106,3 +106,32 @@ img{
 .events .coloumn p{
     font-size: 12px;
 }
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.destinations{
+    margin: 30px 11%;
+    height: 100vh;
+}
+.destinations .header-text{
+    font-size: 40px;
+    font-weight: 600;
+    color: rgb(80, 84, 129);
+}
+.destinations img:hover{
+    opacity: 0.6;
+}
+.destinations .coloumn p {
+    font-size: 12px;
+    margin: 30px 0;
+}
+.footer{
+    background: rgb(80, 84, 129); 
+    color: #fff;
+    text-align: center;
+}
+.footer p{
+    font-size: 10px;
+}
