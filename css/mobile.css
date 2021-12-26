@@ -6,14 +6,14 @@
     align-items: center;
 }
 #navbar a{
-    padding:10px 10px;
-    margin: 0 3px;
+    padding:10px 10px !important;
+    margin: 0 3px !important;
 }
 #home .content h2{
     font-size: 22px;
 }
 #home .content h1{
-    font-size: 35px;
+    font-size: 32px;
 }
 .btn-primary{
     padding: 3px 10px !important;
